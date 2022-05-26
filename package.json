@@ -1,0 +1,25 @@
+{
+    "name": "api-rate-limit",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/vishalvivare/Api_Rate_Limits.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/vishalvivare/Api_Rate_Limits/issues"
+    },
+    "homepage": "https://github.com/vishalvivare/Api_Rate_Limits#readme",
+    "dependencies": {
+      "express": "^4.17.3",
+      "express-limit-api": "^0.0.4",
+      "express-rate-limit": "^6.4.0"
+    }
+  }
